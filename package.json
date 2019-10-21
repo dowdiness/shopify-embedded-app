@@ -1,0 +1,19 @@
+{
+  "name": "shopify-embedded-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dowdiness/shopify-embedded-app",
+  "author": "koji Ishimoto <koji.programs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
